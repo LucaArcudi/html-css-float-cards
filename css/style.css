@@ -40,6 +40,7 @@ main{
 
 span{
     display: block;
+    margin: 0.4rem 0;
 }
 
 section.float.clearfix{
@@ -65,8 +66,4 @@ a{
 
 h2{
     margin-top: 1rem;
-}
-
-span{
-    margin: 0.4rem 0;
 }
