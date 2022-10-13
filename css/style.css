@@ -43,5 +43,26 @@ span{
 }
 
 section.float.clearfix{
-    width: calc(100% / 3);
+    width: calc(100% / 3 - 2rem);
+    margin-bottom: 3rem;
+    background-color: rgb(24, 24, 24);
+    color: white;
+    margin-right: 2rem;
+    box-shadow: 1rem 1rem 5rem #616161;
+
+}
+
+img{
+    height: 7rem;
+    width: 7rem;
+    margin-right: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(2, 142, 184);
+}
+
+h2{
+    margin-top: 1rem;
 }
