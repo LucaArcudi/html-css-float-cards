@@ -10,6 +10,10 @@
     display: table;
 }
 
+body{
+    font-family:'Fredoka', sans-serif; ;
+}
+
 .container{
     margin: 0% auto;
     width: 70%;
@@ -17,6 +21,17 @@
 
 header{
     text-align: center;
+    padding-top: 3rem;
+}
+
+h1{
+    margin-bottom: 3rem;
+    font-size: 3rem;
+    color: rgb(255, 0, 119);
+}
+
+main{
+    padding-top: 4rem;
 }
 
 .float{
