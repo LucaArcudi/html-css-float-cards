@@ -10,7 +10,7 @@
     display: table;
 }
 
-body{
+.container{
     margin: 0% auto;
     width: 70%;
 }
@@ -19,11 +19,14 @@ header{
     text-align: center;
 }
 
-img.float{
+.float{
     float: left;
-    font-size: 3rem;
 }
 
 span{
     display: block;
+}
+
+section.float.clearfix{
+    width: calc(100% / 3);
 }
