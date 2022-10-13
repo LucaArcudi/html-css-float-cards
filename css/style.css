@@ -8,4 +8,22 @@
     content: "";
     clear: both;
     display: table;
-  }
+}
+
+body{
+    margin: 0% auto;
+    width: 70%;
+}
+
+header{
+    text-align: center;
+}
+
+img.float{
+    float: left;
+    font-size: 3rem;
+}
+
+span{
+    display: block;
+}
